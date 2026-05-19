@@ -1,5 +1,3 @@
-# Vicente Cacerez
-
 # 🌌 ¡Hola! Soy Vicente — Ingeniero Informático & Full-Stack Developer
 
 > Apasionado por la transformación digital, la optimización de procesos operativos y el desarrollo de software escalable con un diseño UI/UX de alto nivel. 
@@ -35,7 +33,7 @@ Actualmente me encuentro desarrollando **Orion**, una plataforma comercial moder
 * **La Solución:** Un ecosistema web y móvil interconectado via API con sistemas legados (Bsale), implementando escaneo móvil de códigos de barra, pre-cuadraturas automatizadas en tiempo real (reduciendo el proceso de 2 días a 2-3 horas), facturación electrónica con marca blanca y control anti-fraude para cambios de productos.
 * **Stack:** React + Next.js, Tailwind CSS, API REST (Python/Django), PostgreSQL.
 
-👉 **[Ver el repositorio de Orion aquí](htt)**
+👉 **[Ver el repositorio de Orion aquí](https://github.com/vich1nnn/orion)**
 
 ---
 
